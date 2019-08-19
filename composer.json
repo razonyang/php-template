@@ -10,6 +10,8 @@
             "email": "razonyang@gmail.com"
         }
     ],
+    "minimum-stabilit": "dev",
+    "prefer-stable": true,
     "require": {
         "php": "^7.2"
     },
