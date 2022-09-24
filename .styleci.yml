@@ -1,6 +1,5 @@
-preset: psr2
+preset: recommended
 
-finder:
-  exclude:
-    - docs
-    - vendor
+risky: true
+
+version: 8
